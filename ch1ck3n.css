@@ -42,7 +42,7 @@ hr {
 
 pre {
 	font-family: monospace !important;
-	color: rgb(255, 177, 190);
+	color: rgb(255, 144, 162);
 	font-size: 125%;
 }
 
@@ -101,4 +101,12 @@ pre {
 	100% {
 		transform: scale(1) rotate(360deg);
 	}
+}
+
+.ckn-input {
+  background-color: white;
+  background-image: url('https://www.w3schools.com/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
 }
